@@ -1,3 +1,4 @@
+#由于首次提交时，本人没有只复制前8行，因此此处我添加一行注释代表文件已被修改
 # Script Name       : fileinfo.py
 # Author                : Not sure where I got this from
 # Created               : 28th November 2011
